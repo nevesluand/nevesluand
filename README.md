@@ -1,14 +1,17 @@
-## Oiie! Eu sou a Luand Neves
+# Olá! Eu sou o Luand Neves 👋
 
-- 💻 Hoje trabalho com back-end
-- 📘 Estou estudando JavaScript
-- ❓ Curiosidade: Cursando ADS
+🚀 **Sobre mim:**  
+Sou desenvolvedora com foco em soluções **chatbots** e APIs REST, além de estudante de **Análise e Desenvolvimento de Software**. Estou sempre em busca de novos desafios, aprimorando meu conhecimento tanto em **back-end** quanto em **front-end**.
 
-<div align="center">
-  <a href="https://github.com/nevesluand">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nevesluand&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nevesluand&layout=compact&langs_count=7&theme=dracula"/>
-</div>
+🛠 **Tecnologias:**  
+Trabalho principalmente com **JavaScript** e **Node.js**, e exploro outras tecnologias essenciais, como **HTML**, **CSS** e **Python**. Meu objetivo é desenvolver soluções completas e eficientes, aplicando as melhores práticas no desenvolvimento web.
+
+📈 **Objetivo:**  
+Tenho como meta me tornar um desenvolvedor full-stack completo, com experiência sólida em APIs, backend, e uma abordagem criativa no front-end para criar interfaces amigáveis e intuitivas.
+
+💡 **Vamos conectar?**  
+Se você tem interesse em colaborar, trocar ideias sobre tecnologia, ou explorar projetos de desenvolvimento, vamos conversar! 
+Estou sempre em busca de novos desafios e oportunidades de aprender.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Luand-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
