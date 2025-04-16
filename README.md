@@ -1,7 +1,7 @@
 # Olá! Eu sou o Luand Neves 👋
 
 🚀 **Sobre mim:**  
-Sou desenvolvedora com foco em soluções **chatbots** e APIs REST, além de estudante de **Análise e Desenvolvimento de Software**. Estou sempre em busca de novos desafios, aprimorando meu conhecimento tanto em **back-end** quanto em **front-end**.
+Sou desenvolvedora com foco em soluções **chatbots** e APIs REST, formada em **Análise e Desenvolvimento de Software**. Estou sempre em busca de novos desafios, aprimorando meu conhecimento tanto em **back-end** quanto em **front-end**.
 
 🛠 **Tecnologias:**  
 Trabalho principalmente com **JavaScript** e **Node.js**, e exploro outras tecnologias essenciais, como **HTML**, **CSS** e **Python**. Meu objetivo é desenvolver soluções completas e eficientes, aplicando as melhores práticas no desenvolvimento web.
