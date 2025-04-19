@@ -4,7 +4,7 @@
 Sou desenvolvedora com foco em soluções **chatbots** e APIs REST, formada em **Análise e Desenvolvimento de Software**. Estou sempre em busca de novos desafios, aprimorando meu conhecimento tanto em **back-end** quanto em **front-end**.
 
 🛠 **Tecnologias:**  
-Trabalho principalmente com **JavaScript** e **Node.js**, e exploro outras tecnologias essenciais, como **HTML**, **CSS** e **Python**. Meu objetivo é desenvolver soluções completas e eficientes, aplicando as melhores práticas no desenvolvimento web.
+Trabalho principalmente com **JavaScript** e **Node.js**, e exploro outras tecnologias essenciais, como **TypeScript**, **HTML**, **CSS** e **Python**. Meu objetivo é desenvolver soluções completas e eficientes, aplicando as melhores práticas no desenvolvimento web.
 
 📈 **Objetivo:**  
 Tenho como meta me tornar um desenvolvedor full-stack completo, com experiência sólida em APIs, backend, e uma abordagem criativa no front-end para criar interfaces amigáveis e intuitivas.
